@@ -1,0 +1,17 @@
+1.Write a blog on Difference between HTTP1.1 vs HTTP2?
+Ans: 
+HTTP1.1 :
+1)we can resue the resourse.
+2)it can load resorces one by one.
+3)if any one resource not loaded all the remaining resourses should block.
+4)it is very slow compared to HTTP2.
+
+HTTP2:
+1)it is concurrent and use multiple resourse in single time.
+2)it is very fast and take minimum time to load resourse
+
+2. Write a blog about objects and its internal representation in Javascript?
+1)objects can contains different values in key: value
+2)key should be unique and values contain like string, number, boolean or anything.
+3)objects should be in {}.
+
