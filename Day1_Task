@@ -8,10 +8,14 @@ HTTP1.1 :
 
 HTTP2:
 1)it is concurrent and use multiple resourse in single time.
-2)it is very fast and take minimum time to load resourse
+2)HTTP/2 aims at simplifying, speeding up, and empowering the applications across the internet. 
+To achieve the same, the protocol emphasizes on page load time, resource optimization, and round-trip time (RTT) reduction
 
 2. Write a blog about objects and its internal representation in Javascript?
 1)objects can contains different values in key: value
 2)key should be unique and values contain like string, number, boolean or anything.
 3)objects should be in {}.
+4)Object properties are basically the same as ordinary JavaScript variables, except for the attachment to objects. The properties of an object define the characteristics of the object. 
+You access the properties of an object with a simple dot-notation:
+
 
